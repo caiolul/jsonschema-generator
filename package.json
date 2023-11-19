@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "jsonschema-generator",
   "version": "0.1.0",
   "private": true,
   "scripts": {
